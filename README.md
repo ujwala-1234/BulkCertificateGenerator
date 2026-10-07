@@ -104,7 +104,7 @@ SECRET_KEY=bulk-certificate-secret
 
 DB_HOST=127.0.0.1
 DB_USER=root
-DB_PASSWORD=root
+DB_PASSWORD=
 DB_NAME=certificate_generator
 DB_PORT=3307
 ```
